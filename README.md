@@ -17,7 +17,7 @@ Required materials:
 - 3x M3x10 and nuts to fix the whole thing to your kossel
 - Your choice of build platform, i.e. boro, regular glass, carbon. Diameter 170 mm
 
-Putting it all together
+Putting it all together (check the exploded view to get an idea):
 1. Align alu_fixture and alu_ring, mark the cutout of alu_ring on the fixture
 2. Glue your kapton heater on the marked alu_fixture
 3. Prepare cork circle, cut out a hole big enough to get the cables of the heater and thermistor through
