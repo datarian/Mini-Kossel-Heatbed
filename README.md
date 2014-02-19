@@ -41,7 +41,6 @@ Check the exploded view and the pics to get a better idea.
   5. Spring
   6. Plastic washer
   7. Nut in extrusion
-7. Make sure you have a plastic washer between your frame and heatbed, as well as one under your screwhead
 
 
 Untested yet... Use at your own risk!
