@@ -4,6 +4,11 @@ Mini_Kossel_Heatbed
 Heatbed design for mini kossels. It is slightly elevated above the base extrusions in order to keep the motors underneath as cool as possible. For the same reason, there's a 3mm cork mat sandwiched between the heater and base aluminum plate.
 Quick and dirty steady-state thermal simulations have shown that the bottom alu plate will be about 60°C with a bed heated to 110°C.
 
+Experiences after 18 months or so of operation
+-------------------------------------------------
+- It works very well in general, heatup times are below 1 minute
+- 1 mm aluminum is on the lower end in terms of stiffness. If I redid this, I'd increase the metal to a least 2 mm
+
 Features
 --------
 - Fits kossel mini
@@ -41,6 +46,3 @@ Check the exploded view and the pics to get a better idea.
   5. Spring
   6. Plastic washer
   7. Nut in extrusion
-
-
-Untested yet... Use at your own risk!
