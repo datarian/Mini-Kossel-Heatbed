@@ -1,4 +1,4 @@
-Mini_Kossel_Heatbed
+Mini-Kossel-Heatbed
 ===================
 
 Heatbed design for mini kossels. It is slightly elevated above the base extrusions in order to keep the motors underneath as cool as possible. For the same reason, there's a 3mm cork mat sandwiched between the heater and base aluminum plate.
